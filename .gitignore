@@ -1,2 +1,6 @@
 *.zip
 gerber/
+*.sch-bak
+*.zip
+*-backups
+
